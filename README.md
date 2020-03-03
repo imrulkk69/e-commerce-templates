@@ -1,7 +1,5 @@
 # e-commerce
-E-commerce Web Apps Using Node.Js and React.JS
-
-For Backend I used adoni.js Framework and mySql as database
+E-commerce Web Apps Templates
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
